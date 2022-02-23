@@ -1,0 +1,49 @@
+.header{
+    width: 100%;
+    height: 30rem;
+    text-align: center;
+    background-image: url("./assets/images/fondo-de-la-agencia-de-viajes-92986901.jpg");
+    background-size: 100% 100%;
+}
+
+.header-title,
+.header-subtitle {
+    line-height: 7;
+}
+
+.card {
+    max-width: 300px;
+    height: auto;
+}
+
+.clearflix {
+    overflow: hidden ;
+}
+
+#card1 {
+    float: left;
+    margin:0 auto;
+    padding: 1px;
+}
+#card2 {
+  float:left;
+  margin-left:550px;
+  padding: 1px;
+}
+#card3 {
+   float: right;
+   margin: 0 auto;
+   padding: 1px;   
+}
+
+footer {
+    display:text-bottom;
+    text-align:center;
+    position:absolute;
+    margin:0 auto;  
+    bottom:0;
+    width: 100%;
+    height: 1rem; 
+    
+}
+
